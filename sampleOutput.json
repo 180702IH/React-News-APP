@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Reaction to England and Scotland Euro warm-up wins & football latest as Mbappe signs for Real",
+            "description": "Reaction to England and Scotland's Euro 2024 warm-up matches against Bosnia-Herzegovina and Gibraltar respectively, plus all the latest football news and gossip.",
+            "url": "http://www.bbc.co.uk/sport/football/live/cjrrww7z5q4t",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-06-04T07:22:13.9032083Z",
+            "content": "England 3-0 Bosnia-Herzegovina\r\nPhil McNultyBBC Sport chief football writer\r\nCole Palmer marked his first England start by setting Gareth Southgate's side on their way to victory against Bosnia-Herze… [+811 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Greig Johnston",
+            "title": "John Todd, WA football legend and former West Coast Eagles coach, dies aged 86",
+            "description": "John Todd, one of the most influential figures in WA football history, dies at the age of 86.",
+            "url": "https://www.abc.net.au/news/2024-06-04/wafl-great-west-coast-eagles-coach-john-todd-dies/103933092",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/03f9dff3808511ea2821ae2cb7fa8b98?impolicy=wcms_watermark_news&cropH=780&cropW=1386&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-06-04T03:27:02Z",
+            "content": "<ul><li>In short: One of the most decorated players and coaches in WA football history, John Todd, has died. </li><li>After bursting into the South Fremantle side as a gifted teenager, his career was… [+3939 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Larry Allen: Dallas Cowboys legend dies aged 52",
+            "description": "Dallas Cowboys legend and Pro Football Hall of Famer Larry Allen dies aged 52 while on holiday in Mexico.",
+            "url": "http://www.bbc.co.uk/sport/american-football/articles/c722xj5yrexo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/48c0/live/e5c5acf0-21d6-11ef-baa7-25d483663b8e.jpg",
+            "publishedAt": "2024-06-03T19:22:19.9144021Z",
+            "content": "The Cowboys said in a statement: \"Larry, known for his great athleticism and incredible strength, was one of the most respected, accomplished offensive linemen to ever play in the NFL.\r\n\"His versatil… [+361 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Austen Goslin",
+            "title": "EA’s College Football 25 has tons of new features unique to college",
+            "description": "EA Sport College Football 25 had its biggest reveal yet, including all the new features for the franchise, and a few that make it very different from Madden.",
+            "url": "https://www.polygon.com/24168832/ea-sports-college-football-25-new-features-like-madden",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Vv1dYm1HPQKCp4s8H6nSeumXBqc=/0x0:1456x762/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25472771/cfb25.png",
+            "publishedAt": "2024-05-31T19:01:01Z",
+            "content": "Summer is only just starting, but college football fans are already itching to head back to campus in EA Sports College Football 25. The upcoming game marks the franchises return after almost 10 year… [+2930 chars]"
+        }
+    ]
+}
